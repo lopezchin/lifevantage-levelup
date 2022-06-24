@@ -1,0 +1,16 @@
+/* Add on css */
+
+#mainNav{
+	background: #000;
+}
+
+header.masthead {
+	height: 980px;
+	text-align: center;
+	color: white;
+	background-image: url("../img/banner/banner-bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-size: cover;
+}
